@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(180deg, #fff, #fff 100px, #fff);
+  }
+  
+  .container {
+    max-width: 960px;
+  }
+  
+  .pricing-header {
+    max-width: 100%;
+  }
+/* 
+  .cover-container {
+    max-width: 42em;
+    position: relative;
+  } */
